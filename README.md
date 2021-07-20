@@ -27,4 +27,7 @@
 [![Docker Badge](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
 
 ### Status 💻
-![Shai Status](https://github-readme-stats.vercel.app/api?username=shaippinho&show_icons=true&theme=shades-of-purple)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaippinho&show_icons=true&theme=shades-of-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaippinho&theme=shades-of-purple"/>
+</div>
