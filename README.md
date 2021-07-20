@@ -25,3 +25,6 @@
 ### 👓 Aprendendo 👇
 [![React Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&link=https://reactjs.org/)](https://reactjs.org/)
 [![Docker Badge](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
+
+### Status 💻
+![Shai Status](https://github-readme-stats.vercel.app/api?username=shaippinho&show_icons=true&theme=shades-of-purple)
