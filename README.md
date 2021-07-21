@@ -4,10 +4,10 @@
 ### Vc me encontra aqui 👇
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/shaippinho)](https://github.com/shaippinho)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5548984623872)](https://api.whatsapp.com/send?1=pt_BR&phone=5548984623872)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://www.linkedin.com/in/shaiene-pardo-do-pinho-b39295148)](https://www.linkedin.com/in/shaiene-pardo-do-pinho-b39295148)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaiene-pardo-do-pinho-b39295148)](https://www.linkedin.com/in/shaiene-pardo-do-pinho-b39295148)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5548984623872)](https://api.whatsapp.com/send?1=pt_BR&phone=5548984623872)
 [![Medium Badge](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white&link=https://shaipinho.medium.com/)](https://shaipinho.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://shaipinho.medium.com/)](https://shaipinho.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shaienepardo@gmail.com?Subject=Oi%20Shai%20-%20GitHub/)](mailto:shaienepardo@gmail.com?Subject=Oi%20Shai%20-%20GitHub)
 [![Udemy Badge](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white&link=https://www.udemy.com/user/shaiene-pardo/)](https://www.udemy.com/user/shaiene-pardo/)
 
 
