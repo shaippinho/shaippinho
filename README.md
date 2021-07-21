@@ -18,9 +18,9 @@
 [![Devops Badge](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white&link=https://azure.microsoft.com/)](https://azure.microsoft.com/)
 [![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/)](https://github.com/)
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red&link=https://www.postman.com/)](https://www.postman.com/)
-[![Vs Badge](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white&link=https://visualstudio.microsoft.com/pt-br/)](https://visualstudio.microsoft.com/pt-br/)
-[![VsCode Badge](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
-
+[![Vs Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white&link=https://visualstudio.microsoft.com/pt-br/)](https://visualstudio.microsoft.com/pt-br/)
+[![VsCode Badge](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+[![SQL Badge](https://img.shields.io/badge/SQL%20Server-f0eff0.svg?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=red&link=https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
 ### 👓 Aprendendo 👇
 [![React Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&link=https://reactjs.org/)](https://reactjs.org/)
