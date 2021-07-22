@@ -23,6 +23,7 @@
 [![SQL Badge](https://img.shields.io/badge/SQL%20Server-f0eff0.svg?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=red&link=https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 [![Evernote Badge](https://img.shields.io/badge/Evernote-00A82D.svg?style=for-the-badge&logo=Evernote&logoColor=white&link=https://evernote.com/)](https://evernote.com/)
 [![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white&link=https://www.selenium.dev/)](https://www.selenium.dev/)
+[![Oracle Badge](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white&link=https://www.oracle.com/)](https://www.oracle.com/)
 
 
 ### 👓 Aprendendo 👇
