@@ -3,7 +3,6 @@
 # Olá! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">😄
 ### Vc me encontra aqui 👇
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/shaippinho)](https://github.com/shaippinho)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaiene-pardo-do-pinho-b39295148)](https://www.linkedin.com/in/shaiene-pardo-do-pinho-b39295148)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5548984623872)](https://api.whatsapp.com/send?1=pt_BR&phone=5548984623872)
 [![Medium Badge](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white&link=https://shaipinho.medium.com/)](https://shaipinho.medium.com/)
