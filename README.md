@@ -29,9 +29,3 @@
 ### 👓 Aprendendo 👇
 [![React Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&link=https://reactjs.org/)](https://reactjs.org/)
 [![Kubernetes Badge](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&link=https://kubernetes.io/)](https://kubernetes.io/)
-
-### Status 💻
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaippinho&show_icons=true&theme=shades-of-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaippinho&theme=shades-of-purple"/>
-</div>
