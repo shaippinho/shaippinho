@@ -30,3 +30,7 @@
 [![React Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&link=https://reactjs.org/)](https://reactjs.org/)
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 
+### Minhas Certificações
+<!--START_SECTION:badges-->
+[![DP-900_Badge](https://images.credly.com/size/100x100/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/bd859aa8-9c27-4863-9a63-6c6044e28e37/public_url)
+<!--END_SECTION:badges-->
