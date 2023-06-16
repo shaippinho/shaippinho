@@ -7,7 +7,6 @@
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5548984623872)](https://api.whatsapp.com/send?1=pt_BR&phone=5548984623872)
 [![Medium Badge](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white&link=https://shaipinho.medium.com/)](https://shaipinho.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shaienepardo@gmail.com?Subject=Oi%20Shai%20-%20GitHub/)](mailto:shaienepardo@gmail.com?Subject=Oi%20Shai%20-%20GitHub)
-[![Udemy Badge](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white&link=https://www.udemy.com/user/shaiene-pardo/)](https://www.udemy.com/user/shaiene-pardo/)
 
 
 ### 👩‍💻 Trabalho com 👇
@@ -20,15 +19,20 @@
 [![Vs Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white&link=https://visualstudio.microsoft.com/pt-br/)](https://visualstudio.microsoft.com/pt-br/)
 [![VsCode Badge](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
 [![SQL Badge](https://img.shields.io/badge/SQL%20Server-f0eff0.svg?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=red&link=https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
-[![Evernote Badge](https://img.shields.io/badge/Evernote-00A82D.svg?style=for-the-badge&logo=Evernote&logoColor=white&link=https://evernote.com/)](https://evernote.com/)
 [![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white&link=https://www.selenium.dev/)](https://www.selenium.dev/)
-[![PowerShell Badge](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white&link=https://docs.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.2)](https://docs.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.2)
 [![Docker Badge](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
 [![Kubernetes Badge](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&link=https://kubernetes.io/)](https://kubernetes.io/)
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)](sonarqube.org)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ### 👓 Aprendendo 👇
 [![React Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&link=https://reactjs.org/)](https://reactjs.org/)
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Minhas Certificações
 <!--START_SECTION:badges-->
