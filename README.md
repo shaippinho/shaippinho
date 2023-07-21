@@ -32,6 +32,7 @@
 [![React Badge](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB&link=https://reactjs.org/)](https://reactjs.org/)
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ### Certifications
 <!--START_SECTION:badges-->
